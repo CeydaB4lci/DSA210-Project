@@ -27,9 +27,10 @@ Water scarcity is an important issue for Istanbul, and examining these patterns 
 - Handle missing values and ensure consistent date formatting.
 
 **3.3 Exploratory Data Analysis**
-- Visualize trends in rainfall, reservoir storage, and consumption over time.
-- Identify seasonal patterns (dry/wet periods).
-- Calculate correlations between key variables.
+- Visualize trends in rainfall, reservoir storage, water consumption, and population over time.
+- Identify seasonal patterns (dry/wet periods) and long-term trends.
+- Examine how population growth aligns with changes in water consumption.
+- Calculate correlations between key variables (rainfall, reservoir levels, consumption, population).
 
 **3.4 Hypothesis Testing**
 The project will test the following hypotheses:
