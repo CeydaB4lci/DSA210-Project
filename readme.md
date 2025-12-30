@@ -35,17 +35,17 @@ Water scarcity is an important issue for Istanbul, and examining these patterns 
 **3.4 Hypothesis Testing**
 The project will test the following hypotheses:
 
-H₀₁: Rainfall has no significant effect on Istanbul’s reservoir water storage.
-Hₐ₁: Rainfall has a significant positive effect on Istanbul’s reservoir water storage.
+- H₀₁: Rainfall has no significant effect on Istanbul’s reservoir water storage.
+- Hₐ₁: Rainfall has a significant positive effect on Istanbul’s reservoir water storage.
 
-H₀₂: Water consumption does not significantly reduce reservoir water storage.
-Hₐ₂: Water consumption significantly reduces reservoir water storage.
+- H₀₂: Water consumption does not significantly reduce reservoir water storage.
+- Hₐ₂: Water consumption significantly reduces reservoir water storage.
 
-H₀₃: Population growth does not significantly increase water consumption in Istanbul.
-Hₐ₃: Population growth significantly increases water consumption in Istanbul.
+- H₀₃: Population growth does not significantly increase water consumption in Istanbul.
+- Hₐ₃: Population growth significantly increases water consumption in Istanbul.
 
-H₀₄: Rainfall and water consumption together do not significantly explain changes in Istanbul’s long-term water sustainability.
-Hₐ₄: Rainfall and water consumption together significantly explain changes in Istanbul’s long-term water sustainability.
+- H₀₄: Rainfall and water consumption together do not significantly explain changes in Istanbul’s long-term water sustainability.
+- Hₐ₄: Rainfall and water consumption together significantly explain changes in Istanbul’s long-term water sustainability.
 
 ## 4. Expected Outcomes
 
