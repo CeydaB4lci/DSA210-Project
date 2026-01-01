@@ -21,7 +21,7 @@ Water scarcity is an important issue for Istanbul, and examining these patterns 
 - Collect annual population data from TÜİK (via nufusu.com).
 
 **3.2 Data Cleaning & Preparation**
-- Convert daily rainfall, reservoir levels, and consumption data into monthly averages.
+- Convert daily rainfall, reservoir levels, and consumption data into monthly averages or summations.
 - Assign each month the corresponding yearly population value.
 - Merge all variables — rainfall, reservoir levels, water consumption, and population — into a single time-aligned dataframe.
 - Handle missing values and ensure consistent date formatting.
